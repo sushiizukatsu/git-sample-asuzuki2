@@ -1,1 +1,1 @@
-# git-sample-asuzuki2
+# git-sample-asuzuki2ohayo~
